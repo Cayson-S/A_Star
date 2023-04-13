@@ -1,6 +1,7 @@
 Project Details
 ==============================
 
+random-board.py creates the board that a-star.py will then solve. A shell script can be utilized to pass the output of random-board.py into a-star.py.
 
 A-Star Search Project Report
 ==============================
