@@ -3,10 +3,9 @@
 
 # Created by Cayson Seipel
 # September 22, 2022
-# OLA 1
 # This program takes a standard, solved 8-puzzle board as input and returns as
 # output a randomized configuration.
-# Code modified from code given by Dr. Phillips for use in this assignment
+
 import sys, random, copy
 
 class state():
