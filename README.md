@@ -20,8 +20,9 @@ determine which one is the most effective.</p>
 
 8-Puzzle Board: Example Initial and Goal States
 
-<img width="450" alt="image" src="https://user-images.githubusercontent.com/71890506/231812546-849cc910-5543-4ced-9543-8cc7614f7701.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/71890506/231812546-849cc910-5543-4ced-9543-8cc7614f7701.png">
 
+<p>&emsp;<i>Note.</i> Figure 1 was sourced from Phillips, J. L. (2022b). Informed Search Strategies [PowerPoint Lecture Slides] 
 
 <br></br>
 
@@ -62,6 +63,7 @@ there are likely many solutions located on the tree.</p>
 
 <img width="650" alt="image" src="https://user-images.githubusercontent.com/71890506/231812810-27df85b9-fc6b-4940-86a0-816411919546.png">
 
+<p>&emsp;<i>Note.</i> Figure 2 was sourced from Geeks for Geeks (2022). 8 puzzle Problem using Branch And Bound.
 
 <br></br>
 
