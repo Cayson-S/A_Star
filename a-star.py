@@ -3,11 +3,9 @@
 
 # Created by Cayson Seipel
 # September 23, 2022
-# OLA 1
 # This program takes a randomized version of the 8-puzzle and solves it using
 # the A* method. A heuristic is applied given user input and diagnostics are printed to
 # the console. 
-# SOme code is modified from code given by Dr. Phillips for use in this assignment.
 
 import sys, random, copy, heapq
 
