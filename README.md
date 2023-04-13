@@ -20,6 +20,9 @@ determine which one is the most effective.</p>
 
 8-Puzzle Board: Example Initial and Goal States
 
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/71890506/231812546-849cc910-5543-4ced-9543-8cc7614f7701.png">
+
+
 <br></br>
 
 <p>&emsp;To solve the 8-puzzle, the researcher must first build it. One might assume that building the 
@@ -56,6 +59,9 @@ there are likely many solutions located on the tree.</p>
 <b>Figure 2</b>
 
 8-Puzzle Tree Search Example
+
+<img width="650" alt="image" src="https://user-images.githubusercontent.com/71890506/231812810-27df85b9-fc6b-4940-86a0-816411919546.png">
+
 
 <br></br>
 
@@ -147,7 +153,7 @@ to use.</p>
 <p>&emsp;Another important aspect of performance is memory usage. As the problem gets bigger and 
 bigger, it becomes more difficult to store all the possible moves in memory, making the game more 
 likely to be unsolvable. The "Memory" section in Table 1 shows the memory usage of each heuristic. 
-Each heuristic's median value is much closer to the minimum than the maximum, suggesting a rightskewed distribution. 
+Each heuristic's median value is much closer to the minimum than the maximum, suggesting a right-skewed distribution. 
 These distributions have large extreme values, but most of the data is closer to the 
 median. Considering this, all the medians of the heuristics beat the baseline considerably, and the 
 Manhattan Distance heuristic holds the least minimum, median, and maximum nodes in memory.
