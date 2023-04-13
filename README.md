@@ -93,26 +93,30 @@ comparison between heuristics.
 Table 1
 Descriptive Statistics for the Heuristics
 
-Visited Minimum Median Mean Maximum SD
-Heuristic 1 17.00 8348.00 30847.87 212525.00 47855.54
-Heuristic 2 5.0 378.50 2637.75 39624.00 6259.12
-Heuristic 3 5.0 154.00 786.87 10325.00 1744.42
-Heuristic 4 4.0 67.50 219.86 2946.00 436.98
-Memory
-Heuristic 1 29.00 12385.0 35781.65 182532.00 47489.53
-Heuristic 2 9.00 604.0 3866.94 53968.0 8775.42
-Heuristic 3 9.00 247.5 1187.17 15053.0 2569.78
-Heuristic 4 8.00 113.5 349.28 4529.0 674.80
-Depth
-Heuristic 1 3.00 15.00 15.59 26.00 4.73
-Heuristic 2 3.00 15.00 15.59 26.00 4.73
-Heuristic 3 3.00 15.00 15.59 26.00 4.73
-Heuristic 4 3.00 15.00 15.59 26.00 4.73
-EBF
-Heuristic 1 1.59 1.84 1.86 3.07 0.18
-Heuristic 2 1.44 1.65 1.52 2.08 0.06
-Heuristic 3 1.32 1.61 1.44 2.08 0.08
-Heuristic 4 1.27 1.58 1.37 2.00 0.08
+| Visited | Minimum | Median | Mean | Maximum | SD | 
+|  :---:  |  :---:  |  :---: |  :---: | :---: | :---: | 
+| Heuristic | 1 | 17.00 | 8348.00 | 30847.87 | 212525.00 | 47855.54 | 
+| Heuristic | 2 | 5.0 | 378.50 | 2637.75 | 39624.00 | 6259.12 | 
+| Heuristic | 3 | 5.0 | 154.00 | 786.87 | 10325.00 | 1744.42 | 
+| Heuristic | 4 | 4.0 | 67.50 | 219.86 | 2946.00 | 436.98 | 
+| Memory | | | | | | |
+|  :---:  |  :---:  |  :---: |  :---: | :---: | :---: | 
+| Heuristic | 1 | 29.00 | 12385.0 | 35781.65 | 182532.00 | 47489.53 | 
+| Heuristic | 2 | 9.00 | 604.0 | 3866.94 | 53968.0 | 8775.42 | 
+| Heuristic | 3 | 9.00 | 247.5 | 1187.17 | 15053.0 | 2569.78 | 
+| Heuristic | 4 | 8.00 | 113.5 | 349.28 | 4529.0 | 674.80 | 
+| Depth | | | | | | | 
+|  :---:  |  :---:  |  :---: |  :---: | :---: | :---: | 
+| Heuristic | 1 | 3.00 | 15.00 | 15.59 | 26.00 | 4.73 | 
+| Heuristic | 2 | 3.00 | 15.00 | 15.59 | 26.00 | 4.73 | 
+| Heuristic | 3 | 3.00 | 15.00 | 15.59 | 26.00 | 4.73 | 
+| Heuristic | 4 | 3.00 | 15.00 | 15.59 | 26.00 | 4.73 | 
+| EBF | | | | | | | 
+|  :---:  |  :---:  |  :---: |  :---: | :---: | :---: | 
+| Heuristic | 1 | 1.59 | 1.84 | 1.86 | 3.07 | 0.18 | 
+| Heuristic | 2 | 1.44 | 1.65 | 1.52 | 2.08 | 0.06 | 
+| Heuristic | 3 | 1.32 | 1.61 | 1.44 | 2.08 | 0.08 | 
+| Heuristic | 4 | 1.27 | 1.58 | 1.37 | 2.00 | 0.08 | 
 
 
 As the heuristics increase in value, admissibility becomes a concern. A heuristic is inadmissible if 
